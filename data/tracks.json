@@ -1,0 +1,1168 @@
+[
+	{
+		"place": {
+			"city": "Lisbonne",
+			"country": "Portugal"
+		},
+		"event": "Grand Prix du Portugal",
+		"usage": {
+			"start": "1959",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 5.425,
+			"miles": 3.3716375000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Berlin",
+			"country": "Allemagne"
+		},
+		"event": "Grand Prix d'Allemagne",
+		"usage": {
+			"start": "1959",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 8.3,
+			"miles": 5.158450000000001
+		}
+	},
+	{
+		"place": {
+			"city": "Styrie",
+			"country": "Autriche"
+		},
+		"event": "Grand Prix d'Autriche",
+		"usage": {
+			"start": "1964",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.2,
+			"miles": 1.9888000000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Ain-Diab",
+			"country": "Maroc"
+		},
+		"event": "Grand Prix du Maroc",
+		"usage": {
+			"start": "1958",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 7.602,
+			"miles": 4.724643
+		}
+	},
+	{
+		"place": {
+			"city": "Pescara",
+			"country": "Italie"
+		},
+		"event": "Grand Prix de Pescara",
+		"usage": {
+			"start": "1957",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 25.579,
+			"miles": 15.897348500000001
+		}
+	},
+	{
+		"place": {
+			"city": "Sahir",
+			"country": "Bahreïn"
+		},
+		"event": "Grand Prix de Sakhir",
+		"usage": {
+			"start": "2020",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.543,
+			"miles": 2.2019745000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Las Vegas",
+			"country": "États-Unis"
+		},
+		"event": "Grand Prix de Las Vegas",
+		"usage": {
+			"start": "2023",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 6.201,
+			"miles": 3.8539215
+		}
+	},
+	{
+		"place": {
+			"city": "Clermont-Ferrand",
+			"country": "France"
+		},
+		"event": "Grand Prix de France",
+		"usage": {
+			"start": "1955",
+			"end": "1972"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 8.055,
+			"miles": 5.0061825
+		}
+	},
+	{
+		"place": {
+			"city": "Leicestershire",
+			"country": "Royaume-Uni"
+		},
+		"event": "Grand Prix d'Europe",
+		"usage": {
+			"start": "1993",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 7.28,
+			"miles": 4.524520000000001
+		}
+	},
+	{
+		"place": {
+			"city": "Mont-Tremblant",
+			"country": "Canada"
+		},
+		"event": "Grand Prix du Canada",
+		"usage": {
+			"start": "1968",
+			"end": "1970"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.265,
+			"miles": 2.6506975
+		}
+	},
+	{
+		"place": {
+			"city": "Riverside",
+			"country": "Etats-Unis"
+		},
+		"event": "US Grand Prix",
+		"usage": {
+			"start": "1960",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.271,
+			"miles": 3.2759265
+		}
+	},
+	{
+		"place": {
+			"city": "Las Vegas",
+			"country": "États-Unis"
+		},
+		"event": "Caesars Palace Grand Prix",
+		"usage": {
+			"start": "1981",
+			"end": "1982"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.65,
+			"miles": 2.268475
+		}
+	},
+	{
+		"place": {
+			"city": "Berne",
+			"country": "Suisse"
+		},
+		"event": "Grand Prix de Suisse",
+		"usage": {
+			"start": "1950",
+			"end": "1954"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 7.28,
+			"miles": 4.524520000000001
+		}
+	},
+	{
+		"place": {
+			"city": "Miami",
+			"country": "États-Unis"
+		},
+		"event": "Grand Prix de Miami",
+		"usage": {
+			"start": "2022",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 5.41,
+			"miles": 3.362315
+		}
+	},
+	{
+		"place": {
+			"city": "Barcelone",
+			"country": "Espagne"
+		},
+		"event": "Grand Prix d'Espagne",
+		"usage": {
+			"start": "1969",
+			"end": "1975"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.79,
+			"miles": 2.3554850000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Barcelone",
+			"country": "Espagne"
+		},
+		"event": "Grand Prix d'Espagne",
+		"usage": {
+			"start": "1951",
+			"end": "1954"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 6.316,
+			"miles": 3.9253940000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Sotchi",
+			"country": "Russie"
+		},
+		"event": "Grand Prix de Russie",
+		"usage": {
+			"start": "2014",
+			"end": "2024"
+		},
+		"type": "Rue Cricuit",
+		"lapDistance": {
+			"kilometers": 5.848,
+			"miles": 3.634532
+		}
+	},
+	{
+		"place": {
+			"city": "Phoenix",
+			"country": "États-Unis"
+		},
+		"event": "US Grand Prix",
+		"usage": {
+			"start": "1989",
+			"end": "1991"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.8,
+			"miles": 2.3617
+		}
+	},
+	{
+		"place": {
+			"city": "Prenois",
+			"country": "France"
+		},
+		"event": "GP de France & GP suisse",
+		"usage": {
+			"start": "1974",
+			"end": "1984"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.8,
+			"miles": 2.3617
+		}
+	},
+	{
+		"place": {
+			"city": "Aintree",
+			"country": "Angleterre"
+		},
+		"event": "Grand prix britannique",
+		"usage": {
+			"start": "1955",
+			"end": "1962"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.828,
+			"miles": 3.000602
+		}
+	},
+	{
+		"place": {
+			"city": "Detroit",
+			"country": "États-Unis"
+		},
+		"event": "Grand Prix de Detroit",
+		"usage": {
+			"start": "1982",
+			"end": "1988"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 4.023,
+			"miles": 2.5002945
+		}
+	},
+	{
+		"place": {
+			"city": "Istanbul",
+			"country": "Turquie"
+		},
+		"event": "Grand Prix de Turquie",
+		"usage": {
+			"start": "2005",
+			"end": "2024"
+		},
+		"type": "Cricuit fermé",
+		"lapDistance": {
+			"kilometers": 5.34,
+			"miles": 3.31881
+		}
+	},
+	{
+		"place": {
+			"city": "Bowmanville",
+			"country": "Canada"
+		},
+		"event": "Grand Prix du Canada",
+		"usage": {
+			"start": "1967",
+			"end": "1977"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.957,
+			"miles": 2.4592755
+		}
+	},
+	{
+		"place": {
+			"city": "Adélaïde",
+			"country": "Australie"
+		},
+		"event": "Grand Prix d'Australie",
+		"usage": {
+			"start": "1985",
+			"end": "1995"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.78,
+			"miles": 2.34927
+		}
+	},
+	{
+		"place": {
+			"city": "Bakou  Azerbaïdjan"
+		},
+		"event": "Grand Prix d'Azerbaïdjan",
+		"usage": {
+			"start": "2016",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 6.003,
+			"miles": 3.7308645000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Madrid",
+			"country": "Espagne"
+		},
+		"event": "Grand Prix d'Espagne",
+		"usage": {
+			"start": "1968",
+			"end": "1981"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.404,
+			"miles": 2.115586
+		}
+	},
+	{
+		"place": {
+			"city": "Jerez de la Frontera",
+			"country": "Espagne"
+		},
+		"event": "GP d'Espagne / GP d'Europe",
+		"usage": {
+			"start": "1986",
+			"end": "1997"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.428,
+			"miles": 2.752002
+		}
+	},
+	{
+		"place": {
+			"city": "Rio de Janeiro",
+			"country": "Brésil"
+		},
+		"event": "Grand Prix du Brésil",
+		"usage": {
+			"start": "1978",
+			"end": "1989"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.031,
+			"miles": 3.1267665
+		}
+	},
+	{
+		"place": {
+			"city": "Alcabideche",
+			"country": "Portugal"
+		},
+		"event": "Grand Prix du Portugal",
+		"usage": {
+			"start": "1984",
+			"end": "1996"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.36,
+			"miles": 2.7097400000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Indiana",
+			"country": "États-Unis"
+		},
+		"event": "Indianapolis 500",
+		"usage": {
+			"start": "1950",
+			"end": "1960"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.023,
+			"miles": 2.5002945
+		}
+	},
+	{
+		"place": {
+			"city": "Le Mans",
+			"country": "France"
+		},
+		"event": "Grand Prix de France",
+		"usage": {
+			"start": "1967",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.442,
+			"miles": 2.7607030000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Austin",
+			"country": "Texas"
+		},
+		"event": "US Grand Prix",
+		"usage": {
+			"start": "2012",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.513,
+			"miles": 3.4263295
+		}
+	},
+	{
+		"place": {
+			"city": "Rouen-Les-Essarts",
+			"country": "France"
+		},
+		"event": "Grand Prix de France",
+		"usage": {
+			"start": "1952",
+			"end": "1968"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 6.542,
+			"miles": 4.065853000000001
+		}
+	},
+	{
+		"place": {
+			"city": "West Kingsdown",
+			"country": "Royaume-Uni"
+		},
+		"event": "GP britannique & GP d'Europe",
+		"usage": {
+			"start": "1964",
+			"end": "1986"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.908,
+			"miles": 2.4288220000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Singapour"
+		},
+		"event": "Grand Prix de Singapour",
+		"usage": {
+			"start": "2008",
+			"end": "2024"
+		},
+		"type": "Rue Cricuit",
+		"lapDistance": {
+			"kilometers": 4.94,
+			"miles": 3.0702100000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Sahir",
+			"country": "Bahreïn"
+		},
+		"event": "Grand Prix de Bahreïn",
+		"usage": {
+			"start": "2004",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.412,
+			"miles": 3.3635580000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Midrand",
+			"country": "Afrique du Sud"
+		},
+		"event": "Grand Prix d'Afrique du Sud",
+		"usage": {
+			"start": "1967",
+			"end": "1993"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.261,
+			"miles": 2.6482115000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Buenos Aires",
+			"country": "Argentine"
+		},
+		"event": "Grand Prix d'Argentine",
+		"usage": {
+			"start": "1953",
+			"end": "1998"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.259,
+			"miles": 2.6469685000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Watkins Glen",
+			"country": "NY"
+		},
+		"event": "US Grand Prix",
+		"usage": {
+			"start": "1961",
+			"end": "1980"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.828,
+			"miles": 3.000602
+		}
+	},
+	{
+		"place": {
+			"city": "Le Castellet",
+			"country": "France"
+		},
+		"event": "Grand Prix de France",
+		"usage": {
+			"start": "1971",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.842,
+			"miles": 3.6308030000000002
+		}
+	},
+	{
+		"place": {
+			"city": "Mexico",
+			"country": "Mexique"
+		},
+		"event": "Grand Prix du Mexique",
+		"usage": {
+			"start": "1963",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.304,
+			"miles": 2.674936
+		}
+	},
+	{
+		"place": {
+			"city": "Spielberg",
+			"country": "Autriche"
+		},
+		"event": "Grand Prix d'Autriche",
+		"usage": {
+			"start": "1997",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.318,
+			"miles": 2.683637
+		}
+	},
+	{
+		"place": {
+			"city": "Porto",
+			"country": "Portugal"
+		},
+		"event": "Grand Prix du Portugal",
+		"usage": {
+			"start": "1958",
+			"end": "1960"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 7.407,
+			"miles": 4.6034505
+		}
+	},
+	{
+		"place": {
+			"city": "Shanghai",
+			"country": "Chine"
+		},
+		"event": "Grand Prix de Chine",
+		"usage": {
+			"start": "2004",
+			"end": "2024"
+		},
+		"type": "Cricuit fermé",
+		"lapDistance": {
+			"kilometers": 5.451,
+			"miles": 3.3877965
+		}
+	},
+	{
+		"place": {
+			"city": "Imola",
+			"country": "Italie"
+		},
+		"event": "Grand Prix d'Émilie-Romagne",
+		"usage": {
+			"start": "1980",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.933,
+			"miles": 3.0658595
+		}
+	},
+	{
+		"place": {
+			"city": "Melbourne",
+			"country": "Australie"
+		},
+		"event": "Grand Prix d'Australie",
+		"usage": {
+			"start": "1996",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 5.303,
+			"miles": 3.2958145
+		}
+	},
+	{
+		"place": {
+			"city": "Dallas",
+			"country": "États-Unis"
+		},
+		"event": "Dallas Grand Prix",
+		"usage": {
+			"start": "1984",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.901,
+			"miles": 2.4244715
+		}
+	},
+	{
+		"place": {
+			"city": "Sebring",
+			"country": "États-Unis"
+		},
+		"event": "US Grand Prix",
+		"usage": {
+			"start": "1959",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 8.369,
+			"miles": 5.2013335000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Zandvoort",
+			"country": "Pays-Bas"
+		},
+		"event": "Grand prix hollandais",
+		"usage": {
+			"start": "1952",
+			"end": "1985"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.252,
+			"miles": 2.642618
+		}
+	},
+	{
+		"place": {
+			"city": "Long Beach",
+			"country": "Etats-Unis"
+		},
+		"event": "Grand Prix US West",
+		"usage": {
+			"start": "1976",
+			"end": "1983"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.275,
+			"miles": 2.0354125
+		}
+	},
+	{
+		"place": {
+			"city": "Espagne",
+			"country": "Barcelone"
+		},
+		"event": "Grand Prix d'Espagne",
+		"usage": {
+			"start": "1991",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.655,
+			"miles": 2.8930825000000002
+		}
+	},
+	{
+		"place": {
+			"city": "Mogyorod",
+			"country": "Hongrie"
+		},
+		"event": "Grand Prix de Hongrie",
+		"usage": {
+			"start": "1986",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.381,
+			"miles": 2.7227915000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Portimao",
+			"country": "Portugal"
+		},
+		"event": "Grand Prix du Portugal",
+		"usage": {
+			"start": "2020",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.653,
+			"miles": 2.8918395
+		}
+	},
+	{
+		"place": {
+			"city": "East London",
+			"country": "Afrique du Sud"
+		},
+		"event": "Grand Prix d'Afrique du Sud",
+		"usage": {
+			"start": "1962",
+			"end": "1965"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.92,
+			"miles": 2.43628
+		}
+	},
+	{
+		"place": {
+			"city": "Doha",
+			"country": "Qatar"
+		},
+		"event": "Grand Prix du Qatar",
+		"usage": {
+			"start": "2021",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.38,
+			"miles": 3.3436700000000004
+		}
+	},
+	{
+		"place": {
+			"city": "São Paulo",
+			"country": "Brasil"
+		},
+		"event": "Grand Prix du Brésil",
+		"usage": {
+			"start": "1973",
+			"end": "2024"
+		},
+		"type": "Cricuit fermé",
+		"lapDistance": {
+			"kilometers": 4.309,
+			"miles": 2.6780435000000002
+		}
+	},
+	{
+		"place": {
+			"city": "Hockenheim",
+			"country": "Allemagne"
+		},
+		"event": " Grand Prix d'Allemagne",
+		"usage": {
+			"start": "1970",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.574,
+			"miles": 2.842741
+		}
+	},
+	{
+		"place": {
+			"city": "TI Aida",
+			"country": "Japon"
+		},
+		"event": "Grand Prix du Pacifique",
+		"usage": {
+			"start": "1994",
+			"end": "1995"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.703,
+			"miles": 2.3014145
+		}
+	},
+	{
+		"place": {
+			"city": "Jeddah",
+			"country": "Arabie Saoudite"
+		},
+		"event": "Grand Prix d'Arabie Saoudite",
+		"usage": {
+			"start": "2021",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 6.175,
+			"miles": 3.8377625
+		}
+	},
+	{
+		"place": {
+			"city": "Nivelles",
+			"country": "Belgique"
+		},
+		"event": "Grand Prix de Belgique",
+		"usage": {
+			"start": "1972",
+			"end": "1974"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 3.724,
+			"miles": 2.3144660000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Mugello",
+			"country": "Italie"
+		},
+		"event": "Grand Prix de Toscane",
+		"usage": {
+			"start": "2020",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.245,
+			"miles": 3.2597675
+		}
+	},
+	{
+		"place": {
+			"city": "Anderstorp",
+			"country": "Suède"
+		},
+		"event": "Grand Prix de Suède",
+		"usage": {
+			"start": "1973",
+			"end": "1978"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.031,
+			"miles": 2.5052665
+		}
+	},
+	{
+		"place": {
+			"city": "Gueux",
+			"country": "France"
+		},
+		"event": "Grand Prix de France",
+		"usage": {
+			"start": "1950",
+			"end": "1966"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 8.302,
+			"miles": 5.159693
+		}
+	},
+	{
+		"place": {
+			"city": "Heusden-Zolder",
+			"country": "Belgique"
+		},
+		"event": "Grand Prix de Belgique",
+		"usage": {
+			"start": "1973",
+			"end": "1984"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 4.262,
+			"miles": 2.6488329999999998
+		}
+	},
+	{
+		"place": {
+			"city": "Abu Dhabi",
+			"country": "UAE"
+		},
+		"event": "Grand Prix d'Abu Dhabi",
+		"usage": {
+			"start": "2009 (modifié en 2021)",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.281,
+			"miles": 3.2821415000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Spielberg",
+			"country": "Autriche"
+		},
+		"event": "Grand Prix d'Autriche",
+		"usage": {
+			"start": "1970",
+			"end": "1987"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.942,
+			"miles": 3.6929530000000006
+		}
+	},
+	{
+		"place": {
+			"city": "Grande Bretagne",
+			"country": "Silverstone"
+		},
+		"event": "Grand prix britannique",
+		"usage": {
+			"start": "1950",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.891,
+			"miles": 3.6612565000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Monza",
+			"country": "Italie"
+		},
+		"event": "Grand Prix d'Italie",
+		"usage": {
+			"start": "1950",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.793,
+			"miles": 3.6003495000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Monaco",
+			"country": "Monte Carlo"
+		},
+		"event": "Grand Prix de Monaco",
+		"usage": {
+			"start": "1950",
+			"end": "2024"
+		},
+		"type": "Circuit de rue",
+		"lapDistance": {
+			"kilometers": 3.337,
+			"miles": 2.0739455
+		}
+	},
+	{
+		"place": {
+			"city": "Spa",
+			"country": "Belgique"
+		},
+		"event": "Grand Prix de Belgique",
+		"usage": {
+			"start": "1986",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 7.004,
+			"miles": 4.3529860000000005
+		}
+	},
+	{
+		"place": {
+			"city": "Allemagne",
+			"country": "Nürburg"
+		},
+		"event": "Grand Prix de l'Eifel",
+		"usage": {
+			"start": "1951",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5,
+			"miles": 3.1075000000000004
+		}
+	},
+	{
+		"place": {
+			"city": "Kuala Lumpur",
+			"country": "Malaisie"
+		},
+		"event": "Grand Prix de Malaisie",
+		"usage": {
+			"start": "1999",
+			"end": "2024"
+		},
+		"type": "Circuit fermé",
+		"lapDistance": {
+			"kilometers": 5.543,
+			"miles": 3.4449745000000003
+		}
+	},
+	{
+		"place": {
+			"city": "Nagoya",
+			"country": "Japon"
+		},
+		"event": "Grand Prix du Japon",
+		"usage": {
+			"start": "1987",
+			"end": "2024"
+		},
+		"type": "Cricuit fermé",
+		"lapDistance": {
+			"kilometers": 5.807,
+			"miles": 3.6090505000000004
+		}
+	}
+]
